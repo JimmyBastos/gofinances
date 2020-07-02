@@ -58,7 +58,7 @@ Esta aplicação foi desenolvida com as seguintes tecnologias:
 1. Faça um clone :
 
 ```sh
-  $ git clone https://github.com/JimmyBastos/github-explorer.git
+  $ git clone https://github.com/JimmyBastos/gofinances.git
 ```
 
 2. Executando a Aplicação:
@@ -82,7 +82,7 @@ Esta aplicação foi desenolvida com as seguintes tecnologias:
 
 - Clone o repositório
 ```sh
-  $ git clone https://github.com/<SEU_USUARIO_GIT>/little-friend.git
+  $ git clone https://github.com/<SEU_USUARIO_GIT>/gofinances.git
 ```
 - Crie um branch com sua feature: `git checkout -b nome-da-feature`
 
