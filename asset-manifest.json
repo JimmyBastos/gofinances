@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.js": "/static/js/main.dabb283b.chunk.js",
-    "main.js.map": "/static/js/main.dabb283b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.964e4442.js",
-    "runtime-main.js.map": "/static/js/runtime-main.964e4442.js.map",
-    "static/js/2.e3212d03.chunk.js": "/static/js/2.e3212d03.chunk.js",
-    "static/js/2.e3212d03.chunk.js.map": "/static/js/2.e3212d03.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.6809742de4cca33d9711d72ac9389856.js": "/precache-manifest.6809742de4cca33d9711d72ac9389856.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.e3212d03.chunk.js.LICENSE.txt": "/static/js/2.e3212d03.chunk.js.LICENSE.txt",
-    "static/media/alert.svg": "/static/media/alert.78a343ae.svg",
-    "static/media/income.svg": "/static/media/income.df4567f0.svg",
-    "static/media/logo.svg": "/static/media/logo.ce269cac.svg",
-    "static/media/outcome.svg": "/static/media/outcome.bb31a5f3.svg",
-    "static/media/total.svg": "/static/media/total.7f99c5ac.svg"
+    "main.js": "/JimmyBastos/gofinances/static/js/main.79956354.chunk.js",
+    "main.js.map": "/JimmyBastos/gofinances/static/js/main.79956354.chunk.js.map",
+    "runtime-main.js": "/JimmyBastos/gofinances/static/js/runtime-main.cb6165d4.js",
+    "runtime-main.js.map": "/JimmyBastos/gofinances/static/js/runtime-main.cb6165d4.js.map",
+    "static/js/2.88299009.chunk.js": "/JimmyBastos/gofinances/static/js/2.88299009.chunk.js",
+    "static/js/2.88299009.chunk.js.map": "/JimmyBastos/gofinances/static/js/2.88299009.chunk.js.map",
+    "index.html": "/JimmyBastos/gofinances/index.html",
+    "precache-manifest.8210d7986ca031238d60c6e8936abb8b.js": "/JimmyBastos/gofinances/precache-manifest.8210d7986ca031238d60c6e8936abb8b.js",
+    "service-worker.js": "/JimmyBastos/gofinances/service-worker.js",
+    "static/js/2.88299009.chunk.js.LICENSE.txt": "/JimmyBastos/gofinances/static/js/2.88299009.chunk.js.LICENSE.txt",
+    "static/media/alert.svg": "/JimmyBastos/gofinances/static/media/alert.78a343ae.svg",
+    "static/media/income.svg": "/JimmyBastos/gofinances/static/media/income.df4567f0.svg",
+    "static/media/logo.svg": "/JimmyBastos/gofinances/static/media/logo.ce269cac.svg",
+    "static/media/outcome.svg": "/JimmyBastos/gofinances/static/media/outcome.bb31a5f3.svg",
+    "static/media/total.svg": "/JimmyBastos/gofinances/static/media/total.7f99c5ac.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.964e4442.js",
-    "static/js/2.e3212d03.chunk.js",
-    "static/js/main.dabb283b.chunk.js"
+    "static/js/runtime-main.cb6165d4.js",
+    "static/js/2.88299009.chunk.js",
+    "static/js/main.79956354.chunk.js"
   ]
 }
