@@ -76,11 +76,17 @@ export const TableContainer = styled.section`
       }
 
       &.income {
+
         color: #12a454;
       }
 
       &.outcome {
         color: #e83f5b;
+      }
+
+      &.outcome::before {
+        content: '- ';
+        color: inherit;
       }
     }
 
