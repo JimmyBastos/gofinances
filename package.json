@@ -2,6 +2,7 @@
   "name": "desafio-07",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/JimmyBastos/gofinances",
   "dependencies": {
     "axios": "^0.19.2",
     "filesize": "^6.1.0",
