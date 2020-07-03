@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Um simples Web App de controle financeiro desenvolvido com ReactJS 
+  Um simples Web App de controle financeiro desenvolvido com ReactJS
 </h3>
 
 # Índice
@@ -26,9 +26,10 @@ O <strong>[Go Finances](https://jimmybastos.github.io/gofinances/) 📲</strong>
 ## :heart_eyes: Screenshots
 <details>
   <summary>
-    Visualizar layout
+    Exibir layout
   </summary>
   <img src=".github/dashboard.png" alt="Dashboard">
+  <img src=".github/import.png" alt="Import">
 </details>
 
 <a id="tecnologias-utilizadas"></a>
@@ -118,4 +119,3 @@ Esta aplicação foi desenolvida com as seguintes tecnologias:
 ## :memo:  License
 
 Esse projeto está sob a licença MIT. Acesse o arquivo [LICENSE](LICENSE) para mais detalhes.
-
